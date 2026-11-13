@@ -45,16 +45,4 @@ Mar Athanasius College of Engineering, Kothamangalam
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyabhinavA&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebyabhinavA&layout=compact&theme=tokyonight)
-
----
-
-### ✨ My Philosophy
-
-> Dream big. Stay curious. Keep learning. Build things that matter.
-
-**Every day is an opportunity to become a better version of yourself.**
+**DISCIPLINED.**
